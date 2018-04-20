@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "572492063256",
+    "firebase_url": "https://voisibus-covoiturage.firebaseio.com",
+    "project_id": "voisibus-covoiturage",
+    "storage_bucket": "voisibus-covoiturage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572492063256:android:99bd261980842ef7",
+        "android_client_info": {
+          "package_name": "fr.voisibus.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572492063256-qb0g9l89ikaldj89rmf33m0rii800jsp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxG1w6Da5TKCAUqjHe_e9L7k5jZHQZsQA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
